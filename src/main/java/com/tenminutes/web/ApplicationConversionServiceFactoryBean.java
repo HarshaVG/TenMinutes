@@ -14,6 +14,6 @@ public class ApplicationConversionServiceFactoryBean extends FormattingConversio
 	protected void installFormatters(FormatterRegistry registry) {
 		super.installFormatters(registry);
 		// Register application converters and formatters
-	//comment added
+	//comment added - changed
 	}
 }
